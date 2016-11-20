@@ -3,7 +3,7 @@
 StickyNode is a React component which always will be inside a specified container.
 It can be usefull for a tooltips, etc. 
 
-[demo](https://raw.githubusercontent.com/visortelle/react-sticky-node/master/demo.gif)
+![demo](https://raw.githubusercontent.com/visortelle/react-sticky-node/master/demo.gif)
 
 ### Props Reference
 
