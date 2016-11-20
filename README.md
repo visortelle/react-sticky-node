@@ -12,6 +12,7 @@ It can be usefull for a tooltips, etc.
 | className | string | Default behaviour |
 | style | object | Default behaviour |
 | restrictorNode | object | Restrictor **DOMNode** or ReactElement **ref** |
+| children |  | Default behaviour |
 
 ### Contributors
 Kirill Volkovich
