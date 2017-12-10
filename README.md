@@ -1,3 +1,6 @@
+### This project is deprecated! 
+### Please use `StickyNode` component from https://github.com/OpusCapita/react-overlays/
+
 ### Synopsis
 
 StickyNode is a React component which always will be inside a specified container.
